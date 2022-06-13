@@ -1,3 +1,11 @@
+Changes by me
+
+```
+python yolo_video.py --model model_data/yolo.h5  --input /git/backups/drive.mp4 --anchors model_data/yolo_anchors.txt --classes model_data/coco_classes.txt --gpu_num 1
+```
+
+
+---
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
